@@ -3,6 +3,6 @@ def helloWorld(){
 }
 
 
-def scanFromBuildToStageRelease() {
-    println("Placeholder of the function")
+def scanFromBuildToStageRelease(appName) {
+    println("Placeholder of the function $appName")
 }
